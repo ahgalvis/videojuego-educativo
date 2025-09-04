@@ -1,12 +1,6 @@
-Exploradores del EcoMundo es un videojuego educativo diseñado para enseñar Ciencias Naturales a estudiantes de primaria a través de una experiencia inmersiva y emocionante.
-La historia se desarrolla en EcoMundo, un vasto territorio dividido en selvas, ríos y montañas, donde la naturaleza está perdiendo su equilibrio. Los jugadores deberán embarcarse en una aventura para restaurar la vida, aprendiendo a cuidar el medio ambiente y comprender los ciclos naturales.
+El jugador podrá recolectar recursos y resolver acertijos ambientales; para avanzar deberá superar misiones de reciclaje, clasificación de especies y restauración de ecosistemas.  
+Los desafíos incluirán rompecabezas ecológicos, miniaventuras de exploración y batallas simbólicas contra la contaminación.  
 
-El protagonista de esta aventura es Kai, un niño explorador de 9 años, curioso, solidario y aventurero. Kai es un Guardián del EcoMundo, elegido para una misión única: rescatar a los espíritus de la naturaleza atrapados por la contaminación y el descuido humano. Con su brújula mágica, Kai deberá superar pruebas y retos ambientales mientras enseña a los jugadores conceptos clave de Ciencias Naturales.
-
-El jugador podrá recolectar recursos y resolver acertijos ambientales; para avanzar deberá superar misiones de reciclaje, clasificación de especies y restauración de ecosistemas. Los desafíos incluirán rompecabezas ecológicos, miniaventuras de exploración y batallas simbólicas contra la contaminación.
-
-Los estudiantes avanzarán mediante un sistema de puntos verdes y recompensas ecológicas. Cada nivel representa un concepto educativo (ciclo del agua, fotosíntesis, clasificación de animales, reciclaje, energías renovables), y los jugadores recibirán retroalimentación inmediata sobre su desempeño para reforzar sus conocimientos.
-
-Los jugadores aprenderán el ciclo del agua mediante una aventura en un río interactivo. Se reforzará la fotosíntesis a través de un reto de crecimiento de plantas y las evaluaciones se realizarán mediante misiones finales contra la contaminación, que permitirán a los profesores y estudiantes medir el progreso de manera efectiva.
-
-El juego se desarrollará usando Unity y tendrá soporte para PC, Android y navegador web. Además, se implementarán características como guardado en la nube, panel de control para profesores, logros y analíticas de aprendizaje, garantizando una experiencia educativa fluida y atractiva.
+Los jugadores aprenderán el ciclo del agua mediante una aventura en un río interactivo.  
+Se reforzará la fotosíntesis a través de un reto de crecimiento de plantas.  
+Las evaluaciones se realizarán mediante misiones finales contra la contaminación, que permitirán a los profesores y estudiantes medir el progreso de manera efectivo.  
