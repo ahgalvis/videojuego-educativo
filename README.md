@@ -1,1 +1,1 @@
-# videojuego-educativo
+En la rama feature/mecanicas-aprendizaje, el integrante 2 redactó las mecánicas del juego y cómo se integran los elementos de aprendizaje. Se incluyeron las actividades interactivas (rompecabezas, reciclaje, restauración de ecosistemas) y la forma en que se evalúa el progreso del estudiante. Después, se hizo commit de los cambios y se generó un Pull Request para unirlos a la rama principal.
