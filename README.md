@@ -1,1 +1,1 @@
-# videojuego-educativo
+En la rama feature/descripcion-historia, el integrante 1 desarrolló la introducción y la narrativa del juego, definiendo el contexto, el mundo donde ocurre la aventura y la descripción del protagonista. Posteriormente, realizó un commit y creó un Pull Request para unir estos cambios a la rama main.
