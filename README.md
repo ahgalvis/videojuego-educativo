@@ -1,1 +1,1 @@
-# videojuego-educativo
+En la rama feature/sistema-tecnologia, el integrante 3 se encargó de definir cómo funciona el sistema de progreso y las recompensas del juego, además de especificar las tecnologías a usar (Unity, soporte multiplataforma, guardado en la nube, panel de control, etc.). Una vez completada la sección, realizó el commit y generó un Pull Request para integrar el contenido en la rama main.
